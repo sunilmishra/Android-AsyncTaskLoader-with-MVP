@@ -5,4 +5,8 @@ I have created simple POC for Login Module, which vallidates your credentials wi
 
 This POC is designed to help developers who want to build client server applications with low coupling and high cohesion. 
 
+#Login Server
+Copy Login.php and paste inside WAMP - www folder and Run it. 
+Take your ip address of your machine using ipconfig cmd. Update the same IP in BasePresenter to connect your mobile app with server to do Login Vallidation.
+
 
