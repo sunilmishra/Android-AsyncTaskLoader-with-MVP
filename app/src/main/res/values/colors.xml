@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="base_activity_background">#fcfcfc</color>
+    <color name="skin_action_bar_base_background">#DA291C</color>
+    <color name="gray">#D1D1D1</color>
+</resources>

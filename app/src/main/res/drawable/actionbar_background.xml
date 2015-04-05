@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="@color/skin_action_bar_base_background" />
+                </shape>
+            </item>
+            <item>
+                <shape android:shape="rectangle">
+                    <solid android:color="#11000000" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+
+    <item android:bottom="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/skin_action_bar_base_background" />
+        </shape>
+    </item>
+
+</layer-list>

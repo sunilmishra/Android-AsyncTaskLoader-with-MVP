@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobRed</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name">User name</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="login">SignIn</string>
+    <string name="username_error">Username cannot be empty</string>
+    <string name="password_error">Password cannot be empty</string>
+    <string name="loading">Loading...</string>
+    <string name="LABEL_OK">OK</string>
+</resources>
